@@ -1,6 +1,7 @@
 # Infill - CSV差し込みテキスト出力ツール
 
 ![License](https://img.shields.io/github/license/Ikumyon/Infill)
+![Latest Release](https://img.shields.io/github/v/release/Ikumyon/Infill)
 ![Python](https://img.shields.io/badge/python-3.14%2B-blue)
 ![PySide6](https://img.shields.io/badge/UI-PySide6-green)
 
@@ -16,7 +17,7 @@
 
 Windows向けにビルド済みの実行ファイル（.exe）を公開しています。Pythonのインストールは不要で、解凍してすぐに利用可能です。
 
-[**最新バージョンのダウンロードはこちら**](https://github.com/Ikumyon/Infill/releases/latest)
+[![Download Latest Version](https://img.shields.io/github/v/release/Ikumyon/Infill?label=%E6%9C%80%E6%96%B0%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89&color=orange&style=for-the-badge)](https://github.com/Ikumyon/Infill/releases/latest/download/Infill.exe)
 
 ---
 
